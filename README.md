@@ -27,17 +27,11 @@ Para poder emplear la aplicación pedirá un usuario y contraseña que habrá qu
 Esta hecho sobre la siguiente base de datos, exportada directamente desde phpmyadmin:
 
   -- phpMyAdmin SQL Dump
-  
   -- version 4.0.4.1
-  
   -- http://www.phpmyadmin.net
-  
   -- Servidor: 127.0.0.1
-  
   -- Tiempo de generación: 08-02-2014 a las 10:56:21
-  
   -- Versión del servidor: 5.6.11
-  
   -- Versión de PHP: 5.5.3
   
   SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
