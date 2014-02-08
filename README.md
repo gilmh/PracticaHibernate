@@ -3,31 +3,31 @@ PracticaHibernate
 
 Este ejercicio trabaja sobre una base de datos empleando hibernate y cumple los siguientes puntos:
 
-  . La Base de Datos utilizada contendrá al menos 4 entidades y relaciones 1-N y N-M
+  - La Base de Datos utilizada contendrá al menos 4 entidades y relaciones 1-N y N-M
   
-  . Se podrá llevar a cabo el alta de registros, relacionándolos como convenga
+  - Se podrá llevar a cabo el alta de registros, relacionándolos como convenga
   
-  . Se podrá llevar a cabo la modificación de los registros, relacionándolos como convenga
+  - Se podrá llevar a cabo la modificación de los registros, relacionándolos como convenga
   
-  . Se podrá llevar a cabo la baja de registros, comprobando las dependencias entre los mismos
+  - Se podrá llevar a cabo la baja de registros, comprobando las dependencias entre los mismos
   
-  . Se podrán llevar a cabo búsquedas complejas (por más de un criterio de busqueda y utilizando
+  - Se podrán llevar a cabo búsquedas complejas (por más de un criterio de busqueda y utilizando
     más de un objeto) 
   
-  . Utilizar hasta 6 entidades
+  - Utilizar hasta 6 entidades
  
-  . Utilizar alguna clase que mantenga más de una relación con otras clases
+  - Utilizar alguna clase que mantenga más de una relación con otras clases
  
-  . Implementar un mecanismo de autenticación usuario/contraseña
+  - Implementar un mecanismo de autenticación usuario/contraseña
  
-  . Implementar una barra de estado donde mostrar un resumen de los datos que visualiza el usuario
+  - Implementar una barra de estado donde mostrar un resumen de los datos que visualiza el usuario
     en cada momento (qué datos, cuantas filas, qué fila tiene seleccionada actualmente y los mensajes
     oportunos según la acción que realice)
   
-  . La aplicación refrescará los datos mostrados de forma automática ante posibles cambios en la
+  - La aplicación refrescará los datos mostrados de forma automática ante posibles cambios en la
     Base de Datos
  
-  . Permitir exportar a XML los datos de alguna tabla
+  - Permitir exportar a XML los datos de alguna tabla
 
 
 Para poder emplear la aplicación pedirá un usuario y contraseña que habrá que insertar, a mano, previamente en la base de datos, en mi base de datos he creado uno con los siguientes campos: usuario = admin, contraseña = admin.
