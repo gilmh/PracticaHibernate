@@ -19,7 +19,10 @@ Este ejercicio trabaja sobre una base de datos empleando hibernate y cumple los 
     Base de Datos
   . Permitir exportar a XML los datos de alguna tabla
 
+
 Para poder emplear la aplicación pedirá un usuario y contraseña que habrá que insertar, a mano, previamente en la base de datos, en mi base de datos he creado uno con los siguientes campos: usuario = admin, contraseña = admin.
+
+
 
 Esta hecho sobre la siguiente base de datos, exportada directamente desde phpmyadmin:
 
